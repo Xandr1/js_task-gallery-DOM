@@ -1,0 +1,32 @@
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400; }
+
+@font-face {
+  font-family: "Roboto";
+  src: url("../fonts/Roboto-Regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+
+body {
+  margin: 0;
+  padding: 0; }
+
+.list-item {
+  list-style-type: none;
+  display: inline; }
+
+.gallery__img {
+  width: 5%;
+  height: 5%;
+  padding: 1px;
+  border: 1px solid gray; }
+
+#largeImg {
+  width: 25%;
+  height: 25%;
+  padding: 12px;
+  margin: 10px 0 20px 40px;
+  border: 1px solid gray; }
+
+/*# sourceMappingURL=main.css.map */
